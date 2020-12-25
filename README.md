@@ -1,0 +1,1 @@
+# A short command line quiz written in Golang.
